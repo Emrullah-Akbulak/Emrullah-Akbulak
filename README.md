@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Emrullah</h1>
-<h3 align="center">Full Stack Developer from Turkey</h3>
+<h3 align="center">Full Stack Developer from Türkiye</h3>
 <h3 align="center"> You can reach me from <span color="#000"><a href = "mailto: emrllhakb@gmail.com">here 📫</a></span> </h3>
 
 
